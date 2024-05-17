@@ -9,6 +9,7 @@ Projeto ofertado pelo curso gratuito da plataforma Rockeseat.
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#-atualizações">Atualizações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@ Projeto ofertado pelo curso gratuito da plataforma Rockeseat.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -42,6 +43,14 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+## :memo: Atualizações
+Algumas atualizações do projeto base foram feitas, por preferencias pessoais, aqui estão elas:
+1. Classes ".dark" e ".light" adicionadas e separadas ao inves de usar ".root" e ".light"; 
+2. Modo claro se encontra à esquerda do switch/toggle e modo escuro a direita do switch, assim seguindo a ordem "Do dia para a noite;
+3. Shadow-box e outline, adicionados ao css(aprendi no google, pois tive curiosidade de como fazer o efeito "escurecer", e para gerar mais beleza e destacamento).
+4. Um cachorro foi adicionado a imagem de perfil, pois este projeto tem a finalidade de aprendizagem do html, css e Java Script, sendo assim não julguei necessidade de colocar a minha foto.
+
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Inácio Almeida com a tutoria da Rocketseat :wave: [Participe da comunidade da Rocketseat!](https://discord.gg/rocketseat)
+

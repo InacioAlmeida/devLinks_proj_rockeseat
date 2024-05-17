@@ -46,7 +46,11 @@ body *{
 }
 
 #profile img {
-    width: 224px;
+    width: 100%;
+    max-width: 224px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
 #profile p{

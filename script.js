@@ -5,10 +5,10 @@ function toggleMode(){
 
     const img = document.querySelector("#profile img")
     if(html.classList.contains('dark')) {
-        img.setAttribute('src', './assets/inas_avatar.png')
-        img.setAttribute('alt', "Foto de Inácio")
+        img.setAttribute('src', './assets/dog_light.jpg')
+        img.setAttribute('alt', "Foto de um cachorro usando óculos")
     } else {
-        img.setAttribute('src', './assets/inas_avatar_dark.png')
-        img.setAttribute('alt', "Foto de Inácio usando óculos escuros")
+        img.setAttribute('src', './assets/dog_dark.jpg')
+        img.setAttribute('alt', "Foto de um cachorro usando óculos escuros")
     }
 }
