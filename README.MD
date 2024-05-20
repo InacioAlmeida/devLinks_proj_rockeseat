@@ -49,9 +49,10 @@ Algumas atualizações do projeto base foram feitas, por preferencias pessoais, 
 2. Modo claro se encontra à esquerda do switch/toggle e modo escuro a direita do switch, assim seguindo a ordem "Do dia para a noite;
 3. Shadow-box e outline, adicionados ao css(aprendi no google, pois tive curiosidade de como fazer o efeito "escurecer", e para gerar mais beleza e destacamento).
 4. Um cachorro foi adicionado a imagem de perfil, pois este projeto tem a finalidade de aprendizagem do html, css e Java Script, sendo assim não julguei necessidade de colocar a minha foto.
-5. Para que a imagem do cachorro ficasse boa, foi necessario redimensiona-la no css, aprendi pesquisando no google, para tal visualizar tal feito procure por #profile img
+5. Para que a imagem do cachorro ficasse boa, foi necessario redimensiona-la no css, aprendi pesquisando no google, para visualizar tal feito procure por #profile img
 
 ---
 
 Feito com ♥ by Inácio Almeida com a tutoria da Rocketseat :wave: [Participe da comunidade da Rocketseat!](https://discord.gg/rocketseat)
 
+# devLinks_proj_rockeseat
