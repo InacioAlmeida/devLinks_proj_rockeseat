@@ -86,12 +86,11 @@ body *{
     transform: translateY(-50%);
 }
 .light #switch button {
-    left: 0;
-    right: initial;
+    animation: slide-right 0.4s forwards;
 }
-.dark #switch button{
-    right: 0;
-    left: initial;
+
+.dark #switch button {
+    animation: slide-back 0.4s forwards;
 }
 
 #switch span{
@@ -178,5 +177,25 @@ footer {
     }
     .dark {
         --bg-url: url(./assets/bg-desktop.jpg)
+    }
+}
+
+/*animation*/
+
+@keyframes slide-right {
+    from {
+        left: 50%;
+    }
+    to{
+        left: 0;
+    }
+}
+
+@keyframes slide-back {
+    from {
+        left: 0;
+    }
+    to{
+        left: 50%;
     }
 }
